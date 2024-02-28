@@ -15,5 +15,4 @@ def test_multiply():
 
 
 def test_true():
-        assert True, "This will always pass"
-
+    assert True, "This will always pass"
